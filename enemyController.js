@@ -1,5 +1,5 @@
-import Enemy from "./enemy.js";
-import MovingDirection from "./movingDirection.js";
+import Enemy from "./enemy";
+import MovingDirection from "./movingDirection";
 
 export default class EnemyController {
   enemyMap = [
